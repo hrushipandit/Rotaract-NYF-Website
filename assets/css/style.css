@@ -1371,10 +1371,11 @@ section {
 
 .ml12 {
   font-weight: 200;
-  font-size: 1.3em;
+  font-size: 3em;
   text-transform: uppercase;
   letter-spacing: 0.1em;
   word-break: normal;
+  color:white;
 }
 
 .ml12 .letter {
@@ -1384,13 +1385,49 @@ section {
 
 .ml13 {
   font-weight: 200;
-  font-size: 1.3em;
+  font-size: 3em;
   text-transform: uppercase;
   letter-spacing: 0.1em;
   word-break: normal;
+  color:white;
 }
 
 .ml13 .letter {
   display: inline-block;
   line-height: 1em;
+}
+
+@media (max-width:767px)
+{
+  .ml12 {
+    font-weight: 200;
+    font-size: 1em;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    word-break: normal;
+    color:white;
+    white-space: nowrap;
+  }
+
+  .ml12 .letter {
+    display: inline-block;
+    line-height: 1em;
+    white-space: nowrap;
+  }
+
+  .ml13 {
+    font-weight: 200;
+    font-size: 1em;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    word-break: normal;
+    color:white;
+    white-space: nowrap;
+  }
+
+  .ml13 .letter {
+    display: inline-block;
+    line-height: 1em;
+    white-space: nowrap;
+  }
 }
