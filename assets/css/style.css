@@ -1367,18 +1367,30 @@ section {
     }
 }
 
-/* * {
-    box-sizing: border-box;
-} */
-/*
-section>p{
-    padding:45px 15px 15px 15px;
-}
-.rows{
-    width:100%;
+/* motto code */
+
+.ml12 {
+  font-weight: 200;
+  font-size: 1.3em;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  word-break: normal;
 }
 
-section{
-     border: 1px ;
-     margin:10px;
-} */
+.ml12 .letter {
+  display: inline-block;
+  line-height: 1em;
+}
+
+.ml13 {
+  font-weight: 200;
+  font-size: 1.3em;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  word-break: normal;
+}
+
+.ml13 .letter {
+  display: inline-block;
+  line-height: 1em;
+}
