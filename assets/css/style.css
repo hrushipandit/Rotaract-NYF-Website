@@ -1401,7 +1401,7 @@ section {
 {
   .ml12 {
     font-weight: 200;
-    font-size: 1em;
+    font-size: 0.8em;
     text-transform: uppercase;
     letter-spacing: 0.1em;
     word-break: normal;
@@ -1417,7 +1417,7 @@ section {
 
   .ml13 {
     font-weight: 200;
-    font-size: 1em;
+    font-size: 0.8em;
     text-transform: uppercase;
     letter-spacing: 0.1em;
     word-break: normal;
