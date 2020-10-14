@@ -1080,9 +1080,16 @@ section {
 #contact .info p {
   padding: 0 0 10px 50px;
   margin-bottom: 20px;
-  line-height: 22px;
+  line-height: 32px;
   font-size: 14px;
 }
+
+#mailid
+{
+  font-size:14px;
+}
+
+
 
 #contact .info .email p {
   padding-top: 5px;
