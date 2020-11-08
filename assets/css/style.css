@@ -1604,7 +1604,6 @@ section {
 }
 
 .frontside .card .card-body img {
-    width: 120px;
-    height: 120px;
-    /* border-radius: 50%; */
+    width: 200px;
+    height: 250px;
 }
