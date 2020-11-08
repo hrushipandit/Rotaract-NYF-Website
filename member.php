@@ -15,7 +15,8 @@
                             <div class="card">
                                 <div class="card-body text-center">
                                 <p><img class=" img-fluid" src="assets/img/e-services.jpg" alt="card image"></p>
-                                    <h4 class="card-title">Head <br>Hrushi Pandit</h4>
+                                    <h4>Hrushi Pandit</h4>
+                                    <span>Head</span>
                                 </div>
                             </div>
                         </div>
@@ -40,7 +41,8 @@
                             <div class="card">
                                 <div class="card-body text-center">
                                 <p><img class=" img-fluid" src="assets/img/e-services.jpg" alt="card image"></p>
-                                    <h4 class="card-title"> Co-head <br> Divya Talera</h4>
+                                    <h4> Divya Talera</h4>
+                                    <span>Co-Head</span>
                                 </div>
                             </div>
                         </div>
