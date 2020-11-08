@@ -168,7 +168,7 @@ include 'header.php';
                     </div>
                 </div>
                 <div class="d-flex flex-row-reverse bd-highlight">
-                    <div class="p-2 bd-highlight"><a href="#" type="button" class="btn btn-outline-danger">View All Members.</a>
+                    <div class="p-2 bd-highlight"><a href="member.php" type="button" class="btn btn-outline-danger">View All Members.</a>
                     </div>
                 </div>
             </div>
