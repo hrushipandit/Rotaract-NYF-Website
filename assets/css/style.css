@@ -920,6 +920,17 @@ section {
 /*--------------------------------------------------------------
 # Portfolio Details
 --------------------------------------------------------------*/
+
+@media (max-width:767px)
+{
+
+  .portfolio-details .portfolio-details-carousel {
+    object-fit: cover;
+  }
+
+}
+
+
 .portfolio-details {
   padding-top: 30px;
 
@@ -928,16 +939,20 @@ section {
 .portfolio-details .portfolio-details-container {
   position: relative;
   margin-top: 70px;
+
 }
 
 .portfolio-details .portfolio-details-carousel {
+
   position: relative;
   z-index: 1;
+
 }
 
 .portfolio-details .portfolio-details-carousel .owl-nav, .portfolio-details .portfolio-details-carousel .owl-dots {
   margin-top: 5px;
   text-align: left;
+
 }
 
 .portfolio-details .portfolio-details-carousel .owl-dot {
