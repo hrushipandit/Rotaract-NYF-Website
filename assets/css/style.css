@@ -1472,3 +1472,8 @@ section {
 {
   margin-top: 60px;
 }
+
+.memberphoto
+{
+  object-fit: cover;
+}
