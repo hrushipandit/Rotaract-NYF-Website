@@ -1466,3 +1466,9 @@ section {
  height: 20px;
 
 }
+
+/* adjustments */
+#teamdiv
+{
+  margin-top: 60px;
+}
